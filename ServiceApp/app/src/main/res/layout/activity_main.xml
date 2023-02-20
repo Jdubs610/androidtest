@@ -9,9 +9,9 @@
 
     <Button
         android:id="@+id/button_play"
-        android:onClick="playMusic"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="playMusic"
         android:text="Play" />
 
     <Button
